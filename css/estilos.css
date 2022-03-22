@@ -1,3 +1,17 @@
-body {
-    background-color: blue;
+body{
+    background: linear-gradient(70deg, rgb(70, 240, 243) 10%, rgb(43, 48, 43));
 }
+
+.boton1{
+    padding: 15px 20px;
+    background: -moz-linear-gradient(rgb(230, 227, 227));
+    border: none;
+    color: brown;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 2px 3px 1px blue;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 0%;
+}
+
